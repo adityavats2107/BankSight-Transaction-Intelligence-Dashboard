@@ -1,4 +1,4 @@
-#🏛️ BankSight-Transaction-Intelligence-Dashboard
+🏛️ BankSight-Transaction-Intelligence-Dashboard
 BankSight is a compact yet powerful financial analytics dashboard designed to make banking data exploration simple, interactive, and insightful. Built with Python, Streamlit, and SQLite, it gives you a complete view of customer accounts, transactions, loans, credit cards, branches, and support tickets—all in one place.
 
 With BankSight, you can:
